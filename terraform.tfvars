@@ -1,3 +1,3 @@
-ami = "ami-063d43db0594b521b"
+ami = "ami-0614680123427b75e"
 type = "t2.micro"
 key = "project"
