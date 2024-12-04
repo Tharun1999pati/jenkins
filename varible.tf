@@ -1,7 +1,7 @@
 variable "ami" {
     description = "inserting ami value"
     type = string
-    default = "ami-063d43db0594b521b"
+    default = ""
 }
 
 
